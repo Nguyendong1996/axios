@@ -1,0 +1,4 @@
+class ClassRoom{
+    id
+    name
+}
